@@ -1,0 +1,44 @@
+_repo: The-Thirteenth-Man_69024
+_version: 0.0.1
+alternative_title: The 13th Man
+creator:
+  author:
+    agent_name: Kernahan, Coulson, Mrs.
+    aliases:
+    - Bettany, Jeanie Gwynne
+    - Bettany, J. G. (Jeanie Gwynne)
+    - Gwynne, Mary Jean Hickling
+    - Kernahan, Mary Jean Hickling Gwynne
+    - Kernahan, Mrs. Coulson
+    birthdate: 1857
+    deathdate: 1941
+    gutenberg_agent_id: '55063'
+    url: http://www.gutenberg.org/2009/agents/55063
+    wikipedia: https://en.wikipedia.org/wiki/Jeanie_Gwynne_Bettany
+description: ''
+gutenberg_issued: '2022-09-21'
+identifiers:
+  gutenberg: '69024'
+  lccn: '10027192'
+language: en
+pgterms:marc904: https://archive.org/details/thirteenthman00kerniala/page/n3/mode/2up
+pgterms:marc905: 20201014134435kernahan
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :G. W. Dillingham Company,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Identity -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Thirteenth Man
+url: http://www.gutenberg.org/ebooks/69024
