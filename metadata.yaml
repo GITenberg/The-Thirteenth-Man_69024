@@ -1,6 +1,9 @@
 _repo: The-Thirteenth-Man_69024
 _version: 0.1.0
 alternative_title: The 13th Man
+covers:
+- cover_type: archival
+  image_path: 69024-h/images/cover.jpg
 creator:
   author:
     agent_name: Kernahan, Coulson, Mrs.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55063
     wikipedia: https://en.wikipedia.org/wiki/Jeanie_Gwynne_Bettany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69024#The-Thirteenth-Man
 gutenberg_issued: '2022-09-21'
 identifiers:
   gutenberg: '69024'
